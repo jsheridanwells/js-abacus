@@ -1,0 +1,23 @@
+body {
+	background-color: #555;
+	color: white;
+	text-align: center;
+	padding: 50px;
+}
+header {
+	font-size: 100px;
+}
+span {
+	font-size: 50px;
+	letter-spacing: 30px;
+}
+button {
+	color: black;
+	font-size: 40px;
+}
+#output {
+	font-size: 80px;
+}
+.row {
+	padding: 20px;
+}
